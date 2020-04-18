@@ -3,7 +3,7 @@
 La TreeSetclase del marco de colecciones de Java proporciona la funcionalidad de una estructura de datos de árbol.
 Extiende de la interfaz NavigableSet.
 
-<img src="https://github.com/diegomartinezalaminos/TreeSet/edit/master/img.png" alt="error" height="" width="">
+<img src="https://github.com/diegomartinezalaminos/TreeSet/blob/master/img.png" alt="error">
 
 TreeSet es una colección que siempre mantienen los elementos en orden ascendente. Si los elementos se insertan en el siguiente orden C, A, B se almacenarán de la siguiente forma A, B, C. A demás en el caso de que se repita uno de los elementos solo mostrará uno de ellos ya que todos los elementos tienen que ser únicos.
 Ejemplo, insertamos A, C, B, A y se almacena A, B, C
